@@ -7,7 +7,8 @@ HTML : pour la structure de la page CSS : pour le style et la mise en page
 
 Déploiement
 
-Ce projet est déployé sur Vercel. Vous pouvez le voir en ligne à l’adresse suivante : https://projet-linktree.vercel.app/
+Ce projet est déployé sur Vercel. Vous pouvez le voir en ligne à l’adresse suivante :https://linktree-projet.vercel.app/
+
 
 Auteur
 
