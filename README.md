@@ -11,7 +11,7 @@ Ce projet est déployé sur Vercel. Vous pouvez le voir en ligne à l’adresse 
 
 Auteur
 
-Zoé Kambaji (Gracekams)
+Grace Kambaji 
 
 ⸻
 
